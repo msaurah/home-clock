@@ -1,0 +1,7 @@
+{ 
+  "name": "home-clock", 
+  "integrations": { 
+    "capacitor": {} 
+  }, 
+  "type": "react" 
+}
